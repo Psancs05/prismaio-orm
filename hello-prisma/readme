@@ -1,0 +1,4 @@
+##Install
+Run 
+npm install @prisma/client
+node index.js
